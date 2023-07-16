@@ -39,3 +39,31 @@ https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
 ```bash
 https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
 ```
+
+### Anti-AD
+屏蔽广告域名、电视盒子广告、app内置广告，同时屏蔽了一些日志收集、大数据统计等涉及个人隐私信息的站点，能够保护个人隐私不被偷偷上传
+```bash
+https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
+```
+
+### CDN加速
+
+```bash
+https://cdn.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/anti-ad-easylist.txt
+```
+
+### Adbyby
+
+```bash
+https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
+```
+
+### CDN加速链接
+
+```bash
+https://cdn.jsdelivr.net/gh/adbyby/xwhyc-rules@master/lazy.txt
+```
+链接
+```bash
+https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/video.txt
+```
